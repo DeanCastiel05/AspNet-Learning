@@ -1,0 +1,16 @@
+The contents of this note is purely base on my understanding only
+
+1. C# - programming language
+2. .Net - platform that builds and run applications
+3. C# and .Net difference - C# is the language that is running on .Net to build and run applications
+
+4. .NET Runtime - responsible for running the built applications, inside .NET SDK bundle
+5. .NET SDK - responsible for building, running, testing and publishing the application
+6. .NET Runtime and .NET SDK difference - SDK is the super set that includes many bundle for building, running, testing and publishing application and .NET Runtime is one of this bundle, .NET Runtime is responsible for running the applications
+
+7. ASP .NET core - a .NET framework that is mainly focused on Web Development
+8. .NET and ASP .NET difference - .NET is the platform in general it can have many framework to build website, applications and other stuff, ASP .NET is one of those framework and it mainly focuses on Web Development.
+
+9. Framework - a toolbox that has pre-made tools that can be useable for specific project, for ex webdev have ASP framework, movdev have MAUI framework
+10. Library - has many reuseable code functions that can help building applications
+ 
