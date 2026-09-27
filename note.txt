@@ -1,5 +1,6 @@
 The contents of this note is purely base on my understanding only
 
+09/26/2026
 1. C# - programming language
 2. .Net - platform that builds and run applications
 3. C# and .Net difference - C# is the language that is running on .Net to build and run applications
@@ -14,3 +15,14 @@ The contents of this note is purely base on my understanding only
 9. Framework - a toolbox that has pre-made tools that can be useable for specific project, for ex webdev have ASP framework, movdev have MAUI framework
 10. Library - has many reuseable code functions that can help building applications
  
+
+ 09/27/2026
+ 1. Variables - containers
+ 2. Datatypes - specifiers to know what data must the container containers
+    > int - integer datatypes = use to store numbers
+    > string - stores many character
+    > char - stores single character
+    > bool - stores true or false, used for decision making
+    > double - stores numbers with decimal
+    > float - stores numbers with decimal more that what double can store
+    > decimal - stores precise decimal, mainly used by businesses/organizations
